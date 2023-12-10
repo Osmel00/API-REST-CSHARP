@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINOTES", "APINOTES\APINOTES.csproj", "{BDB5955E-8133-40DA-8A01-E47EE81629FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB5955E-8133-40DA-8A01-E47EE81629FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB5955E-8133-40DA-8A01-E47EE81629FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB5955E-8133-40DA-8A01-E47EE81629FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB5955E-8133-40DA-8A01-E47EE81629FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325E9623-0365-407E-8F6B-CEA710E61E72}
+	EndGlobalSection
+EndGlobal
