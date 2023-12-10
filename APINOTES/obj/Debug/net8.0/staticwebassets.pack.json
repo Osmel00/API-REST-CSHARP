@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Faure\\source\\repos\\APINOTES\\APINOTES\\wwwroot\\api.js",
+      "PackagePath": "staticwebassets\\api.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APINOTES.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APINOTES.props",
+      "PackagePath": "build\\APINOTES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APINOTES.props",
+      "PackagePath": "buildMultiTargeting\\APINOTES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APINOTES.props",
+      "PackagePath": "buildTransitive\\APINOTES.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
