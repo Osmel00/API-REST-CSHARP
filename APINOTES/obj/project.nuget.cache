@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QZkEsXDhDnaE0m+C2cjG8V9adoFtJad9+wZVQvl6NJjq0lst57fjaDBitAAqz9VJr+ZtuICX4PQDCFi5ZBcMwg==",
+  "dgSpecHash": "FaFBsVHYLfv4jHU/S9kwBtH5Vakar4Xxjrmlw9FRYDG2FviA2OYlWgLg+Bwtf5MSGR/14lAbxtkDrZFYaJQo8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Faure\\source\\repos\\APINOTES\\APINOTES\\APINOTES.csproj",
   "expectedPackageFiles": [
@@ -99,6 +99,7 @@
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.net.stringtools\\17.7.2\\microsoft.net.stringtools.17.7.2.nupkg.sha512",
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Faure\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.0\\microsoft.visualstudio.web.codegeneration.8.0.0.nupkg.sha512",
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.0\\microsoft.visualstudio.web.codegeneration.core.8.0.0.nupkg.sha512",
     "C:\\Users\\Faure\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.0\\microsoft.visualstudio.web.codegeneration.design.8.0.0.nupkg.sha512",
